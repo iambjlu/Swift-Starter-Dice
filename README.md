@@ -2,7 +2,8 @@
 XCode 新手練習專案<br>
 XCode Starter Project for practice
 <br><br>
-Item used on this project (在此專案使用的元件) : Text, Button, Alert, Int.Random
+🔧 Item used on this project (在此專案使用的元件) : Text, Button, Alert, Int.Random
+📱 iOS 14.0⬆️
 <br>
 ## 螢幕快照 / Screenshots
 
