@@ -2,6 +2,9 @@
 XCode 新手練習專案<br>
 XCode Starter Project for practice
 <br><br>
+這是我從沒有Swift語言基礎開始到撰寫完成的專案。
+This is the project I built from zero.
+<br><br>
 📱 iOS/iPadOS 14.0 ↑<br>
 💻 Built on (建置於): macOS 10.15.7, XCode 12.4<br>
 🔧 Item used on this project (在此專案使用的元件) : Text, Button, Alert, Int.Random
