@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>import SwiftUI
+import PlaygroundSupport
+
+let number=0
+
+//User Interface
+struct ContentView: View {
+    @State private var showingAlert = false
+    var body: some View {
+        
+        VStack {
+            Text("Welcome to Dice")
+                .font(.title).fontWeight(.medium).padding()
+            
+            Button("Roll the Dice"){
+                showingAlert = true
+            }.alert(isPresented: $showingAlert){
+                Alert(title: Text("Dice Result"), message: Text("The number is \(Int.random(in: 1...6)) !!"))
+            }
+            
+        }
+    }
+}
+
+//Preview
+PlaygroundPage.current.liveView = UIHostingController(rootView: ContentView())
+</string>
+			<key>ModifiedRange</key>
+			<string>{0, 671}</string>
+			<key>OriginalContent</key>
+			<string>
+</string>
+			<key>OriginalRange</key>
+			<string>{0, 1}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</string>
+</dict>
+</plist>
