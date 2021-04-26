@@ -1,4 +1,4 @@
-# Dice
+# 骰子 Dice
 骰子: XCode 新手練習專案<br>
 Dice: XCode Starter Project for practice
 
