@@ -2,7 +2,8 @@
 //  ContentView.swift
 //  Dice
 //
-//  Created by 盧柏均@WMSLAB on 2021/4/12.
+//  Created by iambjlu on 2021/4/12.
+//  Open source project on github.com/iambjlu
 //
 
 import SwiftUI
