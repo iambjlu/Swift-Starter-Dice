@@ -1,6 +1,6 @@
 # 骰子 Dice
-XCode 新手練習專案<br>
-XCode Starter Project for practice
+Swift 新手練習專案<br>
+Swift Starter Project for practice
 <br><br>
 這是我從沒有Swift語言基礎開始到撰寫完成的專案。<br>
 This is the project I built from I had no basic knowledge of Swift.
